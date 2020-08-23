@@ -4,8 +4,6 @@ import { Card, CardImg, CardBody, CardText, CardTitle } from 'reactstrap';
 class DishDetail extends Component {
     constructor(props){
         super(props);
-        this.state = {
-        };
     }
 
     renderComment(comments){
