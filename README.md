@@ -16,7 +16,10 @@ This project is **frontend** of my Project conFusion.
 - React Virtual DOM
 - React Router
 - SPA
-- Controlled Forms
+- Controlled Forms with validation
+- Uncontrolled Forms with validation
+- Redux from Flux architecture
+- React-Redux Forms with validation
 - some others features also
 
 ###### In future i shall integrate this frontend project with my `Backend Project` of conFusion Project and then upload the project in https://www.heroku.com/ ######
